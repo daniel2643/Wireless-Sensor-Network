@@ -12,7 +12,7 @@ There're typically two communication models in the mesh data structure.
 communication between Adjacent node →Adjacent node.
 The program applies blocking(synchronous) communication between all adjacent neighbor Nodes. The following figure shows the simulation:
 
-![alt text] (https://github.com/daniel2643/Wireless-Sensor-Network/blob/master/images/WSN%20model%201.pdf)
+![image description] (https://github.com/daniel2643/Wireless-Sensor-Network/blob/master/images/WSN_model1.png)
 
 From this communication model, each node can only communicate with the adjacent nodes directly (i.e. top node, right node, bottom node, left node), but cannot chat with non-adjacent nodes (i.e. diagonal nodes).
 
@@ -30,7 +30,7 @@ communication between Base station →Node.
 
 The program applies non-blocking (asynchronous) communication between base station and each grid Node. The following figure demonstrated the communication between base station and grid nodes when event triggered.
 
-![Image description] (https://github.com/daniel2643/Wireless-Sensor-Network/blob/master/images/WSN%20model%202.pdf)
+![Image description] (https://github.com/daniel2643/Wireless-Sensor-Network/blob/master/images/WSN_model2.png)
 
 In terms of Model 2, whenever there is an event firing in a node in the network, it reports a group of 6 messages, which are the iteration, the random number, top node random number, right node random number and left node random number, to the base station(Rank 0).
 
