@@ -30,7 +30,7 @@ communication between Base station →Node.
 
 The program applies non-blocking (asynchronous) communication between base station and each grid Node. The following figure demonstrated the communication between base station and grid nodes when event triggered.
 
-![Images] (https://github.com/daniel2643/Wireless-Sensor-Network/blob/master/images/WSN%20model%202.pdf)
+![Image description] (https://github.com/daniel2643/Wireless-Sensor-Network/blob/master/images/WSN%20model%202.pdf)
 
 In terms of Model 2, whenever there is an event firing in a node in the network, it reports a group of 6 messages, which are the iteration, the random number, top node random number, right node random number and left node random number, to the base station(Rank 0).
 
