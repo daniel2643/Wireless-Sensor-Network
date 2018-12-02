@@ -1,0 +1,1115 @@
+*************************************************************************
+**************************    I'm Node  14     **************************
+*************************************************************************
+-----In Node 14, generate a random number 10
+At 2.603771 seconds, Node 14 messaged value 12 (from top)
+At 2.603774 seconds, Node 14 messaged value 11 (from right)
+At 2.603775 seconds, Node 14 messaged value 11 (from bottom)
+At 2.603776 seconds, Node 14 messaged value 12 (from left)
+
+-----In Node 14, generate a random number 12
+At 3.608290 seconds, Node 14 messaged value 10 (from top)
+At 3.608294 seconds, Node 14 messaged value 10 (from right)
+At 3.608295 seconds, Node 14 messaged value 11 (from bottom)
+At 3.608297 seconds, Node 14 messaged value 11 (from left)
+
+-----In Node 14, generate a random number 11
+At 4.612400 seconds, Node 14 messaged value 12 (from top)
+At 4.612403 seconds, Node 14 messaged value 10 (from right)
+At 4.612405 seconds, Node 14 messaged value 11 (from bottom)
+At 4.612406 seconds, Node 14 messaged value 10 (from left)
+
+-----In Node 14, generate a random number 12
+Event triggered!!!!!!!!!!!!!!
+At 5.616677 seconds, Node 14 messaged value 11 (from top)
+At 5.616680 seconds, Node 14 messaged value 11 (from right)
+At 5.616681 seconds, Node 14 messaged value 11 (from bottom)
+At 5.616682 seconds, Node 14 messaged value 11 (from left)
+
+-----In Node 14, generate a random number 12
+At 6.620904 seconds, Node 14 messaged value 11 (from top)
+At 6.620907 seconds, Node 14 messaged value 12 (from right)
+At 6.620908 seconds, Node 14 messaged value 12 (from bottom)
+At 6.620910 seconds, Node 14 messaged value 11 (from left)
+
+-----In Node 14, generate a random number 10
+At 7.625195 seconds, Node 14 messaged value 10 (from top)
+At 7.625198 seconds, Node 14 messaged value 12 (from right)
+At 7.625200 seconds, Node 14 messaged value 10 (from bottom)
+At 7.625201 seconds, Node 14 messaged value 11 (from left)
+
+-----In Node 14, generate a random number 12
+Event triggered!!!!!!!!!!!!!!
+At 8.628974 seconds, Node 14 messaged value 12 (from top)
+At 8.628976 seconds, Node 14 messaged value 12 (from right)
+At 8.628977 seconds, Node 14 messaged value 12 (from bottom)
+At 8.628978 seconds, Node 14 messaged value 12 (from left)
+
+-----In Node 14, generate a random number 11
+At 9.629496 seconds, Node 14 messaged value 12 (from top)
+At 9.629499 seconds, Node 14 messaged value 10 (from right)
+At 9.629501 seconds, Node 14 messaged value 11 (from bottom)
+At 9.629502 seconds, Node 14 messaged value 10 (from left)
+
+-----In Node 14, generate a random number 11
+At 10.632069 seconds, Node 14 messaged value 12 (from top)
+At 10.632071 seconds, Node 14 messaged value 10 (from right)
+At 10.632073 seconds, Node 14 messaged value 11 (from bottom)
+At 10.632074 seconds, Node 14 messaged value 10 (from left)
+
+-----In Node 14, generate a random number 11
+Event triggered!!!!!!!!!!!!!!
+At 11.637227 seconds, Node 14 messaged value 12 (from top)
+At 11.637230 seconds, Node 14 messaged value 11 (from right)
+At 11.637232 seconds, Node 14 messaged value 11 (from bottom)
+At 11.637233 seconds, Node 14 messaged value 11 (from left)
+
+*************************************************************************
+**************************    I'm Node  8     **************************
+*************************************************************************
+-----In Node 8, generate a random number 10
+At 2.651106 seconds, Node 8 messaged value 12 (from top)
+At 2.651109 seconds, Node 8 messaged value 11 (from right)
+At 2.651110 seconds, Node 8 messaged value 11 (from bottom)
+At 2.651111 seconds, Node 8 messaged value 12 (from left)
+
+-----In Node 8, generate a random number 10
+Event triggered!!!!!!!!!!!!!!
+At 3.655770 seconds, Node 8 messaged value 11 (from top)
+At 3.655772 seconds, Node 8 messaged value 11 (from right)
+At 3.655773 seconds, Node 8 messaged value 11 (from bottom)
+At 3.655775 seconds, Node 8 messaged value 12 (from left)
+
+-----In Node 8, generate a random number 10
+At 4.659712 seconds, Node 8 messaged value 10 (from top)
+At 4.659717 seconds, Node 8 messaged value 11 (from right)
+At 4.659719 seconds, Node 8 messaged value 10 (from bottom)
+At 4.659721 seconds, Node 8 messaged value 12 (from left)
+
+-----In Node 8, generate a random number 12
+Event triggered!!!!!!!!!!!!!!
+At 5.663966 seconds, Node 8 messaged value 11 (from top)
+At 5.663968 seconds, Node 8 messaged value 11 (from right)
+At 5.663969 seconds, Node 8 messaged value 10 (from bottom)
+At 5.663971 seconds, Node 8 messaged value 11 (from left)
+
+-----In Node 8, generate a random number 12
+At 6.668219 seconds, Node 8 messaged value 11 (from top)
+At 6.668222 seconds, Node 8 messaged value 12 (from right)
+At 6.668223 seconds, Node 8 messaged value 12 (from bottom)
+At 6.668225 seconds, Node 8 messaged value 11 (from left)
+
+-----In Node 8, generate a random number 11
+At 7.672457 seconds, Node 8 messaged value 11 (from top)
+At 7.672460 seconds, Node 8 messaged value 10 (from right)
+At 7.672462 seconds, Node 8 messaged value 12 (from bottom)
+At 7.672463 seconds, Node 8 messaged value 10 (from left)
+
+-----In Node 8, generate a random number 12
+Event triggered!!!!!!!!!!!!!!
+At 8.676382 seconds, Node 8 messaged value 12 (from top)
+At 8.676383 seconds, Node 8 messaged value 12 (from right)
+At 8.676384 seconds, Node 8 messaged value 10 (from bottom)
+At 8.676385 seconds, Node 8 messaged value 12 (from left)
+
+-----In Node 8, generate a random number 12
+At 9.676802 seconds, Node 8 messaged value 10 (from top)
+At 9.676804 seconds, Node 8 messaged value 11 (from right)
+At 9.676806 seconds, Node 8 messaged value 12 (from bottom)
+At 9.676807 seconds, Node 8 messaged value 11 (from left)
+
+-----In Node 8, generate a random number 12
+At 10.679426 seconds, Node 8 messaged value 10 (from top)
+At 10.679428 seconds, Node 8 messaged value 11 (from right)
+At 10.679429 seconds, Node 8 messaged value 12 (from bottom)
+At 10.679431 seconds, Node 8 messaged value 11 (from left)
+
+-----In Node 8, generate a random number 11
+Event triggered!!!!!!!!!!!!!!
+At 11.683948 seconds, Node 8 messaged value 11 (from top)
+At 11.683951 seconds, Node 8 messaged value 11 (from right)
+At 11.683953 seconds, Node 8 messaged value 11 (from bottom)
+At 11.683954 seconds, Node 8 messaged value 11 (from left)
+
+*************************************************************************
+**************************    I'm Node  12     **************************
+*************************************************************************
+-----In Node 12, generate a random number 11
+At 2.614988 seconds, Node 12 messaged value 10 (from top)
+At 2.614991 seconds, Node 12 messaged value 12 (from right)
+At 2.614992 seconds, Node 12 messaged value 12 (from bottom)
+At 2.614993 seconds, Node 12 messaged value 10 (from left)
+
+-----In Node 12, generate a random number 10
+At 3.619643 seconds, Node 12 messaged value 11 (from top)
+At 3.619646 seconds, Node 12 messaged value 11 (from right)
+At 3.619648 seconds, Node 12 messaged value 12 (from bottom)
+At 3.619650 seconds, Node 12 messaged value 12 (from left)
+
+-----In Node 12, generate a random number 12
+At 4.623773 seconds, Node 12 messaged value 12 (from top)
+At 4.623777 seconds, Node 12 messaged value 10 (from right)
+At 4.623778 seconds, Node 12 messaged value 12 (from bottom)
+At 4.623779 seconds, Node 12 messaged value 11 (from left)
+
+-----In Node 12, generate a random number 12
+Event triggered!!!!!!!!!!!!!!
+At 5.627790 seconds, Node 12 messaged value 11 (from top)
+At 5.627793 seconds, Node 12 messaged value 11 (from right)
+At 5.627795 seconds, Node 12 messaged value 11 (from bottom)
+At 5.627796 seconds, Node 12 messaged value 11 (from left)
+
+-----In Node 12, generate a random number 11
+At 6.632133 seconds, Node 12 messaged value 10 (from top)
+At 6.632136 seconds, Node 12 messaged value 11 (from right)
+At 6.632137 seconds, Node 12 messaged value 11 (from bottom)
+At 6.632139 seconds, Node 12 messaged value 10 (from left)
+
+-----In Node 12, generate a random number 10
+At 7.636372 seconds, Node 12 messaged value 12 (from top)
+At 7.636374 seconds, Node 12 messaged value 11 (from right)
+At 7.636376 seconds, Node 12 messaged value 10 (from bottom)
+At 7.636377 seconds, Node 12 messaged value 11 (from left)
+
+-----In Node 12, generate a random number 12
+Event triggered!!!!!!!!!!!!!!
+At 8.640322 seconds, Node 12 messaged value 12 (from top)
+At 8.640331 seconds, Node 12 messaged value 12 (from right)
+At 8.640332 seconds, Node 12 messaged value 12 (from bottom)
+At 8.640333 seconds, Node 12 messaged value 12 (from left)
+
+-----In Node 12, generate a random number 12
+At 9.640624 seconds, Node 12 messaged value 12 (from top)
+At 9.640628 seconds, Node 12 messaged value 10 (from right)
+At 9.640630 seconds, Node 12 messaged value 11 (from bottom)
+At 9.640632 seconds, Node 12 messaged value 10 (from left)
+
+-----In Node 12, generate a random number 12
+At 10.643351 seconds, Node 12 messaged value 12 (from top)
+At 10.643354 seconds, Node 12 messaged value 10 (from right)
+At 10.643356 seconds, Node 12 messaged value 11 (from bottom)
+At 10.643357 seconds, Node 12 messaged value 10 (from left)
+
+-----In Node 12, generate a random number 11
+Event triggered!!!!!!!!!!!!!!
+At 11.647645 seconds, Node 12 messaged value 11 (from top)
+At 11.647648 seconds, Node 12 messaged value 11 (from right)
+At 11.647650 seconds, Node 12 messaged value 11 (from bottom)
+At 11.647654 seconds, Node 12 messaged value 11 (from left)
+
+*************************************************************************
+**************************    I'm Node  16     **************************
+*************************************************************************
+-----In Node 16, generate a random number 12
+At 2.430741 seconds, Node 16 messaged value 10 (from top)
+At 2.430746 seconds, Node 16 messaged value 10 (from right)
+
+-----In Node 16, generate a random number 11
+At 3.435369 seconds, Node 16 messaged value 12 (from top)
+At 3.435371 seconds, Node 16 messaged value 11 (from right)
+
+-----In Node 16, generate a random number 11
+At 4.439544 seconds, Node 16 messaged value 11 (from top)
+At 4.439546 seconds, Node 16 messaged value 12 (from right)
+
+-----In Node 16, generate a random number 12
+At 5.443566 seconds, Node 16 messaged value 11 (from top)
+At 5.443569 seconds, Node 16 messaged value 11 (from right)
+
+-----In Node 16, generate a random number 10
+At 6.448022 seconds, Node 16 messaged value 10 (from top)
+At 6.448024 seconds, Node 16 messaged value 10 (from right)
+
+-----In Node 16, generate a random number 11
+At 7.452198 seconds, Node 16 messaged value 11 (from top)
+At 7.452201 seconds, Node 16 messaged value 12 (from right)
+
+-----In Node 16, generate a random number 12
+At 8.456070 seconds, Node 16 messaged value 12 (from top)
+At 8.456072 seconds, Node 16 messaged value 12 (from right)
+
+-----In Node 16, generate a random number 11
+At 9.456342 seconds, Node 16 messaged value 10 (from top)
+At 9.456348 seconds, Node 16 messaged value 12 (from right)
+
+-----In Node 16, generate a random number 11
+At 10.459091 seconds, Node 16 messaged value 10 (from top)
+At 10.459094 seconds, Node 16 messaged value 12 (from right)
+
+-----In Node 16, generate a random number 11
+At 11.463603 seconds, Node 16 messaged value 11 (from top)
+At 11.463606 seconds, Node 16 messaged value 11 (from right)
+
+*************************************************************************
+**************************    I'm Node  10     **************************
+*************************************************************************
+-----In Node 10, generate a random number 12
+At 2.630200 seconds, Node 10 messaged value 10 (from top)
+At 2.630203 seconds, Node 10 messaged value 11 (from bottom)
+At 2.630209 seconds, Node 10 messaged value 11 (from left)
+
+-----In Node 10, generate a random number 11
+At 3.634863 seconds, Node 10 messaged value 10 (from top)
+At 3.634867 seconds, Node 10 messaged value 10 (from bottom)
+At 3.634869 seconds, Node 10 messaged value 11 (from left)
+
+-----In Node 10, generate a random number 12
+At 4.638902 seconds, Node 10 messaged value 12 (from top)
+At 4.638905 seconds, Node 10 messaged value 10 (from bottom)
+At 4.638906 seconds, Node 10 messaged value 11 (from left)
+
+-----In Node 10, generate a random number 12
+At 5.643062 seconds, Node 10 messaged value 10 (from top)
+At 5.643065 seconds, Node 10 messaged value 11 (from bottom)
+At 5.643066 seconds, Node 10 messaged value 11 (from left)
+
+-----In Node 10, generate a random number 10
+At 6.647381 seconds, Node 10 messaged value 10 (from top)
+At 6.647383 seconds, Node 10 messaged value 12 (from bottom)
+At 6.647385 seconds, Node 10 messaged value 12 (from left)
+
+-----In Node 10, generate a random number 12
+At 7.651634 seconds, Node 10 messaged value 12 (from top)
+At 7.651636 seconds, Node 10 messaged value 12 (from bottom)
+At 7.651638 seconds, Node 10 messaged value 10 (from left)
+
+-----In Node 10, generate a random number 12
+At 8.655411 seconds, Node 10 messaged value 10 (from top)
+At 8.655413 seconds, Node 10 messaged value 12 (from bottom)
+At 8.655414 seconds, Node 10 messaged value 12 (from left)
+
+-----In Node 10, generate a random number 12
+At 9.655939 seconds, Node 10 messaged value 12 (from top)
+At 9.655943 seconds, Node 10 messaged value 10 (from bottom)
+At 9.655945 seconds, Node 10 messaged value 11 (from left)
+
+-----In Node 10, generate a random number 12
+At 10.658521 seconds, Node 10 messaged value 11 (from top)
+At 10.658523 seconds, Node 10 messaged value 10 (from bottom)
+At 10.658524 seconds, Node 10 messaged value 11 (from left)
+
+-----In Node 10, generate a random number 11
+Event triggered!!!!!!!!!!!!!!
+At 11.663650 seconds, Node 10 messaged value 11 (from top)
+At 11.663653 seconds, Node 10 messaged value 11 (from bottom)
+At 11.663654 seconds, Node 10 messaged value 11 (from left)
+
+*************************************************************************
+**************************    I'm Node  18     **************************
+*************************************************************************
+-----In Node 18, generate a random number 11
+At 2.564277 seconds, Node 18 messaged value 12 (from top)
+At 2.564280 seconds, Node 18 messaged value 12 (from right)
+At 2.564281 seconds, Node 18 messaged value 10 (from left)
+
+-----In Node 18, generate a random number 12
+At 3.568895 seconds, Node 18 messaged value 11 (from top)
+At 3.568908 seconds, Node 18 messaged value 10 (from right)
+At 3.568910 seconds, Node 18 messaged value 11 (from left)
+
+-----In Node 18, generate a random number 10
+At 4.572993 seconds, Node 18 messaged value 10 (from top)
+At 4.572995 seconds, Node 18 messaged value 12 (from right)
+At 4.572997 seconds, Node 18 messaged value 12 (from left)
+
+-----In Node 18, generate a random number 10
+Event triggered!!!!!!!!!!!!!!
+At 5.577189 seconds, Node 18 messaged value 11 (from top)
+At 5.577191 seconds, Node 18 messaged value 11 (from right)
+At 5.577192 seconds, Node 18 messaged value 11 (from left)
+
+-----In Node 18, generate a random number 10
+At 6.581448 seconds, Node 18 messaged value 11 (from top)
+At 6.581451 seconds, Node 18 messaged value 11 (from right)
+At 6.581452 seconds, Node 18 messaged value 10 (from left)
+
+-----In Node 18, generate a random number 11
+At 7.585731 seconds, Node 18 messaged value 11 (from top)
+At 7.585733 seconds, Node 18 messaged value 10 (from right)
+At 7.585735 seconds, Node 18 messaged value 12 (from left)
+
+-----In Node 18, generate a random number 12
+Event triggered!!!!!!!!!!!!!!
+At 8.589625 seconds, Node 18 messaged value 12 (from top)
+At 8.589626 seconds, Node 18 messaged value 12 (from right)
+At 8.589626 seconds, Node 18 messaged value 12 (from left)
+
+-----In Node 18, generate a random number 11
+At 9.589931 seconds, Node 18 messaged value 10 (from top)
+At 9.589935 seconds, Node 18 messaged value 12 (from right)
+At 9.589937 seconds, Node 18 messaged value 12 (from left)
+
+-----In Node 18, generate a random number 11
+At 10.592590 seconds, Node 18 messaged value 10 (from top)
+At 10.592593 seconds, Node 18 messaged value 12 (from right)
+At 10.592594 seconds, Node 18 messaged value 12 (from left)
+
+-----In Node 18, generate a random number 12
+At 11.597059 seconds, Node 18 messaged value 11 (from top)
+At 11.597063 seconds, Node 18 messaged value 12 (from right)
+At 11.597064 seconds, Node 18 messaged value 11 (from left)
+
+*************************************************************************
+**************************    I'm Node  19     **************************
+*************************************************************************
+-----In Node 19, generate a random number 12
+At 2.558924 seconds, Node 19 messaged value 10 (from top)
+At 2.558927 seconds, Node 19 messaged value 10 (from right)
+At 2.558927 seconds, Node 19 messaged value 11 (from left)
+
+-----In Node 19, generate a random number 10
+At 3.563581 seconds, Node 19 messaged value 12 (from top)
+At 3.563584 seconds, Node 19 messaged value 11 (from right)
+At 3.563586 seconds, Node 19 messaged value 12 (from left)
+
+-----In Node 19, generate a random number 12
+At 4.567633 seconds, Node 19 messaged value 11 (from top)
+At 4.567635 seconds, Node 19 messaged value 10 (from right)
+At 4.567637 seconds, Node 19 messaged value 10 (from left)
+
+-----In Node 19, generate a random number 11
+At 5.571906 seconds, Node 19 messaged value 12 (from top)
+At 5.571909 seconds, Node 19 messaged value 10 (from right)
+At 5.571910 seconds, Node 19 messaged value 10 (from left)
+
+-----In Node 19, generate a random number 11
+At 6.576105 seconds, Node 19 messaged value 12 (from top)
+At 6.576108 seconds, Node 19 messaged value 11 (from right)
+At 6.576109 seconds, Node 19 messaged value 10 (from left)
+
+-----In Node 19, generate a random number 10
+At 7.580388 seconds, Node 19 messaged value 10 (from top)
+At 7.580391 seconds, Node 19 messaged value 12 (from right)
+At 7.580392 seconds, Node 19 messaged value 11 (from left)
+
+-----In Node 19, generate a random number 12
+Event triggered!!!!!!!!!!!!!!
+At 8.584154 seconds, Node 19 messaged value 12 (from top)
+At 8.584156 seconds, Node 19 messaged value 12 (from right)
+At 8.584157 seconds, Node 19 messaged value 12 (from left)
+
+-----In Node 19, generate a random number 12
+At 9.584593 seconds, Node 19 messaged value 11 (from top)
+At 9.584595 seconds, Node 19 messaged value 10 (from right)
+At 9.584597 seconds, Node 19 messaged value 11 (from left)
+
+-----In Node 19, generate a random number 12
+At 10.587227 seconds, Node 19 messaged value 11 (from top)
+At 10.587230 seconds, Node 19 messaged value 10 (from right)
+At 10.587231 seconds, Node 19 messaged value 11 (from left)
+
+-----In Node 19, generate a random number 12
+At 11.592168 seconds, Node 19 messaged value 11 (from top)
+At 11.592176 seconds, Node 19 messaged value 12 (from right)
+At 11.592178 seconds, Node 19 messaged value 12 (from left)
+
+*************************************************************************
+**************************    I'm Node  20     **************************
+*************************************************************************
+-----In Node 20, generate a random number 10
+At 2.552648 seconds, Node 20 messaged value 11 (from top)
+At 2.552650 seconds, Node 20 messaged value 12 (from left)
+
+-----In Node 20, generate a random number 11
+At 3.557337 seconds, Node 20 messaged value 10 (from top)
+At 3.557339 seconds, Node 20 messaged value 10 (from left)
+
+-----In Node 20, generate a random number 10
+At 4.561397 seconds, Node 20 messaged value 10 (from top)
+At 4.561399 seconds, Node 20 messaged value 12 (from left)
+
+-----In Node 20, generate a random number 10
+At 5.565617 seconds, Node 20 messaged value 11 (from top)
+At 5.565619 seconds, Node 20 messaged value 11 (from left)
+
+-----In Node 20, generate a random number 11
+At 6.569810 seconds, Node 20 messaged value 12 (from top)
+At 6.569814 seconds, Node 20 messaged value 11 (from left)
+
+-----In Node 20, generate a random number 12
+At 7.574080 seconds, Node 20 messaged value 12 (from top)
+At 7.574083 seconds, Node 20 messaged value 10 (from left)
+
+-----In Node 20, generate a random number 12
+At 8.577925 seconds, Node 20 messaged value 12 (from top)
+At 8.577927 seconds, Node 20 messaged value 12 (from left)
+
+-----In Node 20, generate a random number 10
+At 9.578399 seconds, Node 20 messaged value 10 (from top)
+At 9.578401 seconds, Node 20 messaged value 12 (from left)
+
+-----In Node 20, generate a random number 10
+At 10.580976 seconds, Node 20 messaged value 10 (from top)
+At 10.580978 seconds, Node 20 messaged value 12 (from left)
+
+-----In Node 20, generate a random number 12
+At 11.586089 seconds, Node 20 messaged value 11 (from top)
+At 11.586093 seconds, Node 20 messaged value 12 (from left)
+
+*************************************************************************
+**************************    I'm Node  9     **************************
+*************************************************************************
+-----In Node 9, generate a random number 11
+At 2.640302 seconds, Node 9 messaged value 10 (from top)
+At 2.640305 seconds, Node 9 messaged value 12 (from right)
+At 2.640305 seconds, Node 9 messaged value 12 (from bottom)
+At 2.640306 seconds, Node 9 messaged value 10 (from left)
+
+-----In Node 9, generate a random number 11
+At 3.644830 seconds, Node 9 messaged value 12 (from top)
+At 3.644836 seconds, Node 9 messaged value 11 (from right)
+At 3.644838 seconds, Node 9 messaged value 12 (from bottom)
+At 3.644840 seconds, Node 9 messaged value 10 (from left)
+
+-----In Node 9, generate a random number 11
+At 4.648940 seconds, Node 9 messaged value 11 (from top)
+At 4.648943 seconds, Node 9 messaged value 12 (from right)
+At 4.648945 seconds, Node 9 messaged value 11 (from bottom)
+At 4.648946 seconds, Node 9 messaged value 10 (from left)
+
+-----In Node 9, generate a random number 11
+Event triggered!!!!!!!!!!!!!!
+At 5.653186 seconds, Node 9 messaged value 12 (from top)
+At 5.653189 seconds, Node 9 messaged value 12 (from right)
+At 5.653190 seconds, Node 9 messaged value 12 (from bottom)
+At 5.653192 seconds, Node 9 messaged value 12 (from left)
+
+-----In Node 9, generate a random number 12
+At 6.657453 seconds, Node 9 messaged value 12 (from top)
+At 6.657456 seconds, Node 9 messaged value 10 (from right)
+At 6.657458 seconds, Node 9 messaged value 10 (from bottom)
+At 6.657459 seconds, Node 9 messaged value 12 (from left)
+
+-----In Node 9, generate a random number 10
+At 7.661678 seconds, Node 9 messaged value 10 (from top)
+At 7.661680 seconds, Node 9 messaged value 12 (from right)
+At 7.661682 seconds, Node 9 messaged value 10 (from bottom)
+At 7.661683 seconds, Node 9 messaged value 11 (from left)
+
+-----In Node 9, generate a random number 12
+Event triggered!!!!!!!!!!!!!!
+At 8.665590 seconds, Node 9 messaged value 12 (from top)
+At 8.665591 seconds, Node 9 messaged value 12 (from right)
+At 8.665592 seconds, Node 9 messaged value 10 (from bottom)
+At 8.665593 seconds, Node 9 messaged value 12 (from left)
+
+-----In Node 9, generate a random number 11
+At 9.666035 seconds, Node 9 messaged value 11 (from top)
+At 9.666038 seconds, Node 9 messaged value 12 (from right)
+At 9.666039 seconds, Node 9 messaged value 10 (from bottom)
+At 9.666041 seconds, Node 9 messaged value 12 (from left)
+
+-----In Node 9, generate a random number 11
+At 10.668535 seconds, Node 9 messaged value 11 (from top)
+At 10.668549 seconds, Node 9 messaged value 12 (from right)
+At 10.668550 seconds, Node 9 messaged value 10 (from bottom)
+At 10.668552 seconds, Node 9 messaged value 12 (from left)
+
+-----In Node 9, generate a random number 11
+Event triggered!!!!!!!!!!!!!!
+At 11.673538 seconds, Node 9 messaged value 11 (from top)
+At 11.673541 seconds, Node 9 messaged value 11 (from right)
+At 11.673542 seconds, Node 9 messaged value 11 (from bottom)
+At 11.673543 seconds, Node 9 messaged value 11 (from left)
+
+*************************************************************************
+**************************    I'm Node  5     **************************
+*************************************************************************
+-----In Node 5, generate a random number 10
+At 2.686993 seconds, Node 5 messaged value 12 (from bottom)
+At 2.686996 seconds, Node 5 messaged value 12 (from left)
+
+-----In Node 5, generate a random number 10
+At 3.691620 seconds, Node 5 messaged value 11 (from bottom)
+At 3.691623 seconds, Node 5 messaged value 12 (from left)
+
+-----In Node 5, generate a random number 12
+At 4.695701 seconds, Node 5 messaged value 12 (from bottom)
+At 4.695704 seconds, Node 5 messaged value 11 (from left)
+
+-----In Node 5, generate a random number 10
+At 5.699998 seconds, Node 5 messaged value 12 (from bottom)
+At 5.700001 seconds, Node 5 messaged value 12 (from left)
+
+-----In Node 5, generate a random number 10
+At 6.704191 seconds, Node 5 messaged value 10 (from bottom)
+At 6.704194 seconds, Node 5 messaged value 10 (from left)
+
+-----In Node 5, generate a random number 12
+At 7.708497 seconds, Node 5 messaged value 12 (from bottom)
+At 7.708501 seconds, Node 5 messaged value 10 (from left)
+
+-----In Node 5, generate a random number 10
+At 8.712331 seconds, Node 5 messaged value 12 (from bottom)
+At 8.712333 seconds, Node 5 messaged value 10 (from left)
+
+-----In Node 5, generate a random number 12
+At 9.712776 seconds, Node 5 messaged value 12 (from bottom)
+At 9.712778 seconds, Node 5 messaged value 10 (from left)
+
+-----In Node 5, generate a random number 11
+At 10.715260 seconds, Node 5 messaged value 12 (from bottom)
+At 10.715264 seconds, Node 5 messaged value 10 (from left)
+
+-----In Node 5, generate a random number 11
+At 11.719469 seconds, Node 5 messaged value 11 (from bottom)
+At 11.719472 seconds, Node 5 messaged value 11 (from left)
+
+*************************************************************************
+**************************    I'm Node  13     **************************
+*************************************************************************
+-----In Node 13, generate a random number 12
+At 2.610880 seconds, Node 13 messaged value 11 (from top)
+At 2.610883 seconds, Node 13 messaged value 10 (from right)
+At 2.610884 seconds, Node 13 messaged value 10 (from bottom)
+At 2.610885 seconds, Node 13 messaged value 11 (from left)
+
+-----In Node 13, generate a random number 11
+At 3.615545 seconds, Node 13 messaged value 12 (from top)
+At 3.615548 seconds, Node 13 messaged value 12 (from right)
+At 3.615549 seconds, Node 13 messaged value 10 (from bottom)
+At 3.615551 seconds, Node 13 messaged value 10 (from left)
+
+-----In Node 13, generate a random number 10
+At 4.619486 seconds, Node 13 messaged value 10 (from top)
+At 4.619488 seconds, Node 13 messaged value 11 (from right)
+At 4.619490 seconds, Node 13 messaged value 10 (from bottom)
+At 4.619491 seconds, Node 13 messaged value 12 (from left)
+
+-----In Node 13, generate a random number 11
+Event triggered!!!!!!!!!!!!!!
+At 5.623831 seconds, Node 13 messaged value 10 (from top)
+At 5.623833 seconds, Node 13 messaged value 12 (from right)
+At 5.623834 seconds, Node 13 messaged value 12 (from bottom)
+At 5.623835 seconds, Node 13 messaged value 12 (from left)
+
+-----In Node 13, generate a random number 11
+At 6.627930 seconds, Node 13 messaged value 10 (from top)
+At 6.627936 seconds, Node 13 messaged value 12 (from right)
+At 6.627938 seconds, Node 13 messaged value 12 (from bottom)
+At 6.627939 seconds, Node 13 messaged value 11 (from left)
+
+-----In Node 13, generate a random number 11
+At 7.632290 seconds, Node 13 messaged value 11 (from top)
+At 7.632293 seconds, Node 13 messaged value 10 (from right)
+At 7.632295 seconds, Node 13 messaged value 11 (from bottom)
+At 7.632296 seconds, Node 13 messaged value 10 (from left)
+
+-----In Node 13, generate a random number 12
+Event triggered!!!!!!!!!!!!!!
+At 8.636173 seconds, Node 13 messaged value 12 (from top)
+At 8.636175 seconds, Node 13 messaged value 12 (from right)
+At 8.636175 seconds, Node 13 messaged value 12 (from bottom)
+At 8.636176 seconds, Node 13 messaged value 12 (from left)
+
+-----In Node 13, generate a random number 10
+At 9.636575 seconds, Node 13 messaged value 11 (from top)
+At 9.636578 seconds, Node 13 messaged value 11 (from right)
+At 9.636579 seconds, Node 13 messaged value 12 (from bottom)
+At 9.636580 seconds, Node 13 messaged value 12 (from left)
+
+-----In Node 13, generate a random number 10
+At 10.639200 seconds, Node 13 messaged value 11 (from top)
+At 10.639203 seconds, Node 13 messaged value 11 (from right)
+At 10.639205 seconds, Node 13 messaged value 12 (from bottom)
+At 10.639206 seconds, Node 13 messaged value 12 (from left)
+
+-----In Node 13, generate a random number 11
+Event triggered!!!!!!!!!!!!!!
+At 11.643816 seconds, Node 13 messaged value 12 (from top)
+At 11.643818 seconds, Node 13 messaged value 11 (from right)
+At 11.643820 seconds, Node 13 messaged value 11 (from bottom)
+At 11.643821 seconds, Node 13 messaged value 11 (from left)
+
+*************************************************************************
+**************************    I'm Node  7     **************************
+*************************************************************************
+-----In Node 7, generate a random number 12
+At 2.653816 seconds, Node 7 messaged value 11 (from top)
+At 2.653819 seconds, Node 7 messaged value 10 (from right)
+At 2.653820 seconds, Node 7 messaged value 10 (from bottom)
+At 2.653821 seconds, Node 7 messaged value 11 (from left)
+
+-----In Node 7, generate a random number 12
+Event triggered!!!!!!!!!!!!!!
+At 3.658454 seconds, Node 7 messaged value 10 (from top)
+At 3.658456 seconds, Node 7 messaged value 10 (from right)
+At 3.658458 seconds, Node 7 messaged value 10 (from bottom)
+At 3.658460 seconds, Node 7 messaged value 11 (from left)
+
+-----In Node 7, generate a random number 12
+At 4.662578 seconds, Node 7 messaged value 12 (from top)
+At 4.662581 seconds, Node 7 messaged value 10 (from right)
+At 4.662582 seconds, Node 7 messaged value 11 (from bottom)
+At 4.662583 seconds, Node 7 messaged value 10 (from left)
+
+-----In Node 7, generate a random number 11
+Event triggered!!!!!!!!!!!!!!
+At 5.666608 seconds, Node 7 messaged value 12 (from top)
+At 5.666612 seconds, Node 7 messaged value 12 (from right)
+At 5.666614 seconds, Node 7 messaged value 12 (from bottom)
+At 5.666615 seconds, Node 7 messaged value 12 (from left)
+
+-----In Node 7, generate a random number 11
+At 6.670975 seconds, Node 7 messaged value 11 (from top)
+At 6.670978 seconds, Node 7 messaged value 12 (from right)
+At 6.670979 seconds, Node 7 messaged value 12 (from bottom)
+At 6.670981 seconds, Node 7 messaged value 11 (from left)
+
+-----In Node 7, generate a random number 10
+At 7.675209 seconds, Node 7 messaged value 10 (from top)
+At 7.675213 seconds, Node 7 messaged value 11 (from right)
+At 7.675215 seconds, Node 7 messaged value 10 (from bottom)
+At 7.675216 seconds, Node 7 messaged value 11 (from left)
+
+-----In Node 7, generate a random number 12
+Event triggered!!!!!!!!!!!!!!
+At 8.679131 seconds, Node 7 messaged value 12 (from top)
+At 8.679133 seconds, Node 7 messaged value 12 (from right)
+At 8.679134 seconds, Node 7 messaged value 10 (from bottom)
+At 8.679134 seconds, Node 7 messaged value 12 (from left)
+
+-----In Node 7, generate a random number 11
+At 9.679397 seconds, Node 7 messaged value 12 (from top)
+At 9.679400 seconds, Node 7 messaged value 12 (from right)
+At 9.679402 seconds, Node 7 messaged value 11 (from bottom)
+At 9.679404 seconds, Node 7 messaged value 10 (from left)
+
+-----In Node 7, generate a random number 11
+At 10.682142 seconds, Node 7 messaged value 12 (from top)
+At 10.682145 seconds, Node 7 messaged value 12 (from right)
+At 10.682147 seconds, Node 7 messaged value 10 (from bottom)
+At 10.682148 seconds, Node 7 messaged value 10 (from left)
+
+-----In Node 7, generate a random number 11
+Event triggered!!!!!!!!!!!!!!
+At 11.686168 seconds, Node 7 messaged value 11 (from top)
+At 11.686172 seconds, Node 7 messaged value 11 (from right)
+At 11.686174 seconds, Node 7 messaged value 11 (from bottom)
+At 11.686175 seconds, Node 7 messaged value 11 (from left)
+
+*************************************************************************
+**************************    I'm Node  11     **************************
+*************************************************************************
+-----In Node 11, generate a random number 10
+At 2.622769 seconds, Node 11 messaged value 11 (from top)
+At 2.622773 seconds, Node 11 messaged value 11 (from right)
+At 2.622773 seconds, Node 11 messaged value 12 (from bottom)
+
+-----In Node 11, generate a random number 12
+At 3.627248 seconds, Node 11 messaged value 10 (from top)
+At 3.627251 seconds, Node 11 messaged value 11 (from right)
+At 3.627252 seconds, Node 11 messaged value 11 (from bottom)
+
+-----In Node 11, generate a random number 11
+At 4.631574 seconds, Node 11 messaged value 12 (from top)
+At 4.631576 seconds, Node 11 messaged value 10 (from right)
+At 4.631577 seconds, Node 11 messaged value 11 (from bottom)
+
+-----In Node 11, generate a random number 11
+Event triggered!!!!!!!!!!!!!!
+At 5.635581 seconds, Node 11 messaged value 12 (from top)
+At 5.635583 seconds, Node 11 messaged value 12 (from right)
+At 5.635585 seconds, Node 11 messaged value 12 (from bottom)
+
+-----In Node 11, generate a random number 10
+At 6.640052 seconds, Node 11 messaged value 11 (from top)
+At 6.640055 seconds, Node 11 messaged value 11 (from right)
+At 6.640057 seconds, Node 11 messaged value 10 (from bottom)
+
+-----In Node 11, generate a random number 11
+At 7.644148 seconds, Node 11 messaged value 10 (from top)
+At 7.644152 seconds, Node 11 messaged value 11 (from right)
+At 7.644153 seconds, Node 11 messaged value 11 (from bottom)
+
+-----In Node 11, generate a random number 12
+Event triggered!!!!!!!!!!!!!!
+At 8.648092 seconds, Node 11 messaged value 12 (from top)
+At 8.648093 seconds, Node 11 messaged value 12 (from right)
+At 8.648094 seconds, Node 11 messaged value 12 (from bottom)
+
+-----In Node 11, generate a random number 10
+At 9.648499 seconds, Node 11 messaged value 12 (from top)
+At 9.648502 seconds, Node 11 messaged value 10 (from right)
+At 9.648503 seconds, Node 11 messaged value 11 (from bottom)
+
+-----In Node 11, generate a random number 10
+At 10.651024 seconds, Node 11 messaged value 12 (from top)
+At 10.651029 seconds, Node 11 messaged value 10 (from right)
+At 10.651031 seconds, Node 11 messaged value 11 (from bottom)
+
+-----In Node 11, generate a random number 11
+Event triggered!!!!!!!!!!!!!!
+At 11.655313 seconds, Node 11 messaged value 11 (from top)
+At 11.655316 seconds, Node 11 messaged value 11 (from right)
+At 11.655317 seconds, Node 11 messaged value 11 (from bottom)
+
+*************************************************************************
+**************************    I'm Node  6     **************************
+*************************************************************************
+-----In Node 6, generate a random number 11
+At 2.675869 seconds, Node 6 messaged value 12 (from top)
+At 2.675872 seconds, Node 6 messaged value 12 (from right)
+At 2.675873 seconds, Node 6 messaged value 10 (from bottom)
+
+-----In Node 6, generate a random number 11
+At 3.680359 seconds, Node 6 messaged value 12 (from top)
+At 3.680362 seconds, Node 6 messaged value 10 (from right)
+At 3.680364 seconds, Node 6 messaged value 12 (from bottom)
+
+-----In Node 6, generate a random number 10
+At 4.684658 seconds, Node 6 messaged value 12 (from top)
+At 4.684660 seconds, Node 6 messaged value 10 (from right)
+At 4.684661 seconds, Node 6 messaged value 11 (from bottom)
+
+-----In Node 6, generate a random number 12
+At 5.688685 seconds, Node 6 messaged value 11 (from top)
+At 5.688688 seconds, Node 6 messaged value 10 (from right)
+At 5.688689 seconds, Node 6 messaged value 11 (from bottom)
+
+-----In Node 6, generate a random number 11
+At 6.693123 seconds, Node 6 messaged value 11 (from top)
+At 6.693125 seconds, Node 6 messaged value 12 (from right)
+At 6.693126 seconds, Node 6 messaged value 10 (from bottom)
+
+-----In Node 6, generate a random number 11
+At 7.697199 seconds, Node 6 messaged value 10 (from top)
+At 7.697202 seconds, Node 6 messaged value 11 (from right)
+At 7.697204 seconds, Node 6 messaged value 11 (from bottom)
+
+-----In Node 6, generate a random number 12
+At 8.701201 seconds, Node 6 messaged value 12 (from top)
+At 8.701203 seconds, Node 6 messaged value 10 (from right)
+At 8.701204 seconds, Node 6 messaged value 12 (from bottom)
+
+-----In Node 6, generate a random number 10
+At 9.701512 seconds, Node 6 messaged value 11 (from top)
+At 9.701515 seconds, Node 6 messaged value 12 (from right)
+At 9.701517 seconds, Node 6 messaged value 10 (from bottom)
+
+-----In Node 6, generate a random number 10
+At 10.704156 seconds, Node 6 messaged value 11 (from top)
+At 10.704159 seconds, Node 6 messaged value 12 (from right)
+At 10.704161 seconds, Node 6 messaged value 10 (from bottom)
+
+-----In Node 6, generate a random number 11
+At 11.708633 seconds, Node 6 messaged value 11 (from top)
+At 11.708637 seconds, Node 6 messaged value 10 (from right)
+At 11.708639 seconds, Node 6 messaged value 11 (from bottom)
+
+*************************************************************************
+**************************    I'm Node  17     **************************
+*************************************************************************
+-----In Node 17, generate a random number 10
+At 2.574200 seconds, Node 17 messaged value 11 (from top)
+At 2.574204 seconds, Node 17 messaged value 11 (from right)
+At 2.574205 seconds, Node 17 messaged value 12 (from left)
+
+-----In Node 17, generate a random number 11
+At 3.578814 seconds, Node 17 messaged value 10 (from top)
+At 3.578818 seconds, Node 17 messaged value 12 (from right)
+At 3.578819 seconds, Node 17 messaged value 11 (from left)
+
+-----In Node 17, generate a random number 12
+At 4.582908 seconds, Node 17 messaged value 12 (from top)
+At 4.582911 seconds, Node 17 messaged value 10 (from right)
+At 4.582912 seconds, Node 17 messaged value 11 (from left)
+
+-----In Node 17, generate a random number 11
+At 5.587120 seconds, Node 17 messaged value 12 (from top)
+At 5.587123 seconds, Node 17 messaged value 10 (from right)
+At 5.587124 seconds, Node 17 messaged value 12 (from left)
+
+-----In Node 17, generate a random number 10
+At 6.591477 seconds, Node 17 messaged value 11 (from top)
+At 6.591479 seconds, Node 17 messaged value 10 (from right)
+At 6.591481 seconds, Node 17 messaged value 10 (from left)
+
+-----In Node 17, generate a random number 12
+At 7.595692 seconds, Node 17 messaged value 10 (from top)
+At 7.595695 seconds, Node 17 messaged value 11 (from right)
+At 7.595696 seconds, Node 17 messaged value 11 (from left)
+
+-----In Node 17, generate a random number 12
+Event triggered!!!!!!!!!!!!!!
+At 8.599551 seconds, Node 17 messaged value 12 (from top)
+At 8.599552 seconds, Node 17 messaged value 12 (from right)
+At 8.599553 seconds, Node 17 messaged value 12 (from left)
+
+-----In Node 17, generate a random number 12
+At 9.599968 seconds, Node 17 messaged value 12 (from top)
+At 9.599971 seconds, Node 17 messaged value 11 (from right)
+At 9.599972 seconds, Node 17 messaged value 11 (from left)
+
+-----In Node 17, generate a random number 12
+At 10.602492 seconds, Node 17 messaged value 12 (from top)
+At 10.602496 seconds, Node 17 messaged value 11 (from right)
+At 10.602497 seconds, Node 17 messaged value 11 (from left)
+
+-----In Node 17, generate a random number 11
+At 11.607288 seconds, Node 17 messaged value 11 (from top)
+At 11.607293 seconds, Node 17 messaged value 12 (from right)
+At 11.607294 seconds, Node 17 messaged value 11 (from left)
+
+*************************************************************************
+**************************    I'm Node  15     **************************
+*************************************************************************
+-----In Node 15, generate a random number 11
+At 2.596212 seconds, Node 15 messaged value 12 (from top)
+At 2.596215 seconds, Node 15 messaged value 10 (from bottom)
+At 2.596216 seconds, Node 15 messaged value 10 (from left)
+
+-----In Node 15, generate a random number 10
+At 3.600903 seconds, Node 15 messaged value 11 (from top)
+At 3.600906 seconds, Node 15 messaged value 11 (from bottom)
+At 3.600908 seconds, Node 15 messaged value 12 (from left)
+
+-----In Node 15, generate a random number 10
+At 4.604933 seconds, Node 15 messaged value 12 (from top)
+At 4.604936 seconds, Node 15 messaged value 10 (from bottom)
+At 4.604938 seconds, Node 15 messaged value 11 (from left)
+
+-----In Node 15, generate a random number 11
+At 5.609118 seconds, Node 15 messaged value 12 (from top)
+At 5.609120 seconds, Node 15 messaged value 10 (from bottom)
+At 5.609122 seconds, Node 15 messaged value 12 (from left)
+
+-----In Node 15, generate a random number 12
+At 6.613345 seconds, Node 15 messaged value 10 (from top)
+At 6.613347 seconds, Node 15 messaged value 11 (from bottom)
+At 6.613349 seconds, Node 15 messaged value 12 (from left)
+
+-----In Node 15, generate a random number 12
+At 7.617631 seconds, Node 15 messaged value 12 (from top)
+At 7.617634 seconds, Node 15 messaged value 12 (from bottom)
+At 7.617635 seconds, Node 15 messaged value 10 (from left)
+
+-----In Node 15, generate a random number 12
+Event triggered!!!!!!!!!!!!!!
+At 8.621481 seconds, Node 15 messaged value 12 (from top)
+At 8.621483 seconds, Node 15 messaged value 12 (from bottom)
+At 8.621483 seconds, Node 15 messaged value 12 (from left)
+
+-----In Node 15, generate a random number 10
+At 9.621965 seconds, Node 15 messaged value 12 (from top)
+At 9.621968 seconds, Node 15 messaged value 10 (from bottom)
+At 9.621969 seconds, Node 15 messaged value 11 (from left)
+
+-----In Node 15, generate a random number 10
+At 10.624443 seconds, Node 15 messaged value 12 (from top)
+At 10.624445 seconds, Node 15 messaged value 10 (from bottom)
+At 10.624447 seconds, Node 15 messaged value 11 (from left)
+
+-----In Node 15, generate a random number 11
+At 11.629376 seconds, Node 15 messaged value 11 (from top)
+At 11.629379 seconds, Node 15 messaged value 12 (from bottom)
+At 11.629381 seconds, Node 15 messaged value 11 (from left)
+
+*************************************************************************
+**************************    I'm Node  1     **************************
+*************************************************************************
+-----In Node 1, generate a random number 12
+At 2.706121 seconds, Node 1 messaged value 10 (from right)
+At 2.706126 seconds, Node 1 messaged value 11 (from bottom)
+
+-----In Node 1, generate a random number 10
+At 3.710582 seconds, Node 1 messaged value 10 (from right)
+At 3.710588 seconds, Node 1 messaged value 11 (from bottom)
+
+-----In Node 1, generate a random number 10
+At 4.714946 seconds, Node 1 messaged value 11 (from right)
+At 4.714949 seconds, Node 1 messaged value 10 (from bottom)
+
+-----In Node 1, generate a random number 10
+At 5.718957 seconds, Node 1 messaged value 12 (from right)
+At 5.718963 seconds, Node 1 messaged value 12 (from bottom)
+
+-----In Node 1, generate a random number 12
+At 6.723327 seconds, Node 1 messaged value 12 (from right)
+At 6.723330 seconds, Node 1 messaged value 11 (from bottom)
+
+-----In Node 1, generate a random number 11
+At 7.727475 seconds, Node 1 messaged value 10 (from right)
+At 7.727481 seconds, Node 1 messaged value 11 (from bottom)
+
+-----In Node 1, generate a random number 10
+At 8.731465 seconds, Node 1 messaged value 10 (from right)
+At 8.731467 seconds, Node 1 messaged value 12 (from bottom)
+
+-----In Node 1, generate a random number 12
+At 9.731745 seconds, Node 1 messaged value 11 (from right)
+At 9.731751 seconds, Node 1 messaged value 10 (from bottom)
+
+-----In Node 1, generate a random number 12
+At 10.734501 seconds, Node 1 messaged value 10 (from right)
+At 10.734504 seconds, Node 1 messaged value 10 (from bottom)
+
+-----In Node 1, generate a random number 10
+At 11.738953 seconds, Node 1 messaged value 11 (from right)
+At 11.738958 seconds, Node 1 messaged value 11 (from bottom)
+
+*************************************************************************
+**************************    I'm Node  2     **************************
+*************************************************************************
+-----In Node 2, generate a random number 10
+At 2.702851 seconds, Node 2 messaged value 11 (from right)
+At 2.702856 seconds, Node 2 messaged value 12 (from bottom)
+At 2.702857 seconds, Node 2 messaged value 12 (from left)
+
+-----In Node 2, generate a random number 10
+At 3.707522 seconds, Node 2 messaged value 11 (from right)
+At 3.707525 seconds, Node 2 messaged value 12 (from bottom)
+At 3.707527 seconds, Node 2 messaged value 10 (from left)
+
+-----In Node 2, generate a random number 11
+At 4.711661 seconds, Node 2 messaged value 10 (from right)
+At 4.711664 seconds, Node 2 messaged value 12 (from bottom)
+At 4.711666 seconds, Node 2 messaged value 10 (from left)
+
+-----In Node 2, generate a random number 12
+At 5.715828 seconds, Node 2 messaged value 10 (from right)
+At 5.715830 seconds, Node 2 messaged value 11 (from bottom)
+At 5.715831 seconds, Node 2 messaged value 10 (from left)
+
+-----In Node 2, generate a random number 12
+At 6.719989 seconds, Node 2 messaged value 12 (from right)
+At 6.719996 seconds, Node 2 messaged value 11 (from bottom)
+At 6.719998 seconds, Node 2 messaged value 12 (from left)
+
+-----In Node 2, generate a random number 10
+At 7.724277 seconds, Node 2 messaged value 12 (from right)
+At 7.724283 seconds, Node 2 messaged value 10 (from bottom)
+At 7.724285 seconds, Node 2 messaged value 11 (from left)
+
+-----In Node 2, generate a random number 10
+At 8.728136 seconds, Node 2 messaged value 10 (from right)
+At 8.728140 seconds, Node 2 messaged value 12 (from bottom)
+At 8.728141 seconds, Node 2 messaged value 10 (from left)
+
+-----In Node 2, generate a random number 11
+At 9.728604 seconds, Node 2 messaged value 12 (from right)
+At 9.728607 seconds, Node 2 messaged value 11 (from bottom)
+At 9.728608 seconds, Node 2 messaged value 12 (from left)
+
+-----In Node 2, generate a random number 10
+At 10.731132 seconds, Node 2 messaged value 12 (from right)
+At 10.731138 seconds, Node 2 messaged value 11 (from bottom)
+At 10.731140 seconds, Node 2 messaged value 12 (from left)
+
+-----In Node 2, generate a random number 11
+At 11.735256 seconds, Node 2 messaged value 11 (from right)
+At 11.735262 seconds, Node 2 messaged value 11 (from bottom)
+At 11.735264 seconds, Node 2 messaged value 10 (from left)
+
+*************************************************************************
+**************************    I'm Node  4     **************************
+*************************************************************************
+-----In Node 4, generate a random number 12
+At 2.694238 seconds, Node 4 messaged value 10 (from right)
+At 2.694241 seconds, Node 4 messaged value 11 (from bottom)
+At 2.694242 seconds, Node 4 messaged value 11 (from left)
+
+-----In Node 4, generate a random number 12
+At 3.698887 seconds, Node 4 messaged value 10 (from right)
+At 3.698890 seconds, Node 4 messaged value 11 (from bottom)
+At 3.698891 seconds, Node 4 messaged value 11 (from left)
+
+-----In Node 4, generate a random number 11
+At 4.702858 seconds, Node 4 messaged value 12 (from right)
+At 4.702861 seconds, Node 4 messaged value 11 (from bottom)
+At 4.702863 seconds, Node 4 messaged value 10 (from left)
+
+-----In Node 4, generate a random number 12
+At 5.707242 seconds, Node 4 messaged value 10 (from right)
+At 5.707245 seconds, Node 4 messaged value 11 (from bottom)
+At 5.707246 seconds, Node 4 messaged value 10 (from left)
+
+-----In Node 4, generate a random number 10
+At 6.711340 seconds, Node 4 messaged value 10 (from right)
+At 6.711345 seconds, Node 4 messaged value 12 (from bottom)
+At 6.711346 seconds, Node 4 messaged value 12 (from left)
+
+-----In Node 4, generate a random number 10
+At 7.715703 seconds, Node 4 messaged value 12 (from right)
+At 7.715706 seconds, Node 4 messaged value 10 (from bottom)
+At 7.715707 seconds, Node 4 messaged value 12 (from left)
+
+-----In Node 4, generate a random number 10
+At 8.719480 seconds, Node 4 messaged value 10 (from right)
+At 8.719483 seconds, Node 4 messaged value 12 (from bottom)
+At 8.719484 seconds, Node 4 messaged value 10 (from left)
+
+-----In Node 4, generate a random number 10
+At 9.719991 seconds, Node 4 messaged value 12 (from right)
+At 9.719994 seconds, Node 4 messaged value 11 (from bottom)
+At 9.719995 seconds, Node 4 messaged value 12 (from left)
+
+-----In Node 4, generate a random number 10
+At 10.722600 seconds, Node 4 messaged value 11 (from right)
+At 10.722603 seconds, Node 4 messaged value 11 (from bottom)
+At 10.722604 seconds, Node 4 messaged value 12 (from left)
+
+-----In Node 4, generate a random number 11
+Event triggered!!!!!!!!!!!!!!
+At 11.726676 seconds, Node 4 messaged value 11 (from right)
+At 11.726679 seconds, Node 4 messaged value 11 (from bottom)
+At 11.726681 seconds, Node 4 messaged value 11 (from left)
+
+*************************************************************************
+**************************    I'm Node  3     **************************
+*************************************************************************
+-----In Node 3, generate a random number 11
+At 2.700039 seconds, Node 3 messaged value 12 (from right)
+At 2.700042 seconds, Node 3 messaged value 10 (from bottom)
+At 2.700043 seconds, Node 3 messaged value 10 (from left)
+
+-----In Node 3, generate a random number 11
+At 3.704695 seconds, Node 3 messaged value 12 (from right)
+At 3.704698 seconds, Node 3 messaged value 10 (from bottom)
+At 3.704699 seconds, Node 3 messaged value 10 (from left)
+
+-----In Node 3, generate a random number 10
+At 4.708632 seconds, Node 3 messaged value 11 (from right)
+At 4.708638 seconds, Node 3 messaged value 10 (from bottom)
+At 4.708640 seconds, Node 3 messaged value 11 (from left)
+
+-----In Node 3, generate a random number 10
+Event triggered!!!!!!!!!!!!!!
+At 5.713003 seconds, Node 3 messaged value 12 (from right)
+At 5.713005 seconds, Node 3 messaged value 12 (from bottom)
+At 5.713006 seconds, Node 3 messaged value 12 (from left)
+
+-----In Node 3, generate a random number 12
+At 6.717138 seconds, Node 3 messaged value 10 (from right)
+At 6.717142 seconds, Node 3 messaged value 12 (from bottom)
+At 6.717144 seconds, Node 3 messaged value 12 (from left)
+
+-----In Node 3, generate a random number 12
+At 7.721415 seconds, Node 3 messaged value 10 (from right)
+At 7.721418 seconds, Node 3 messaged value 11 (from bottom)
+At 7.721419 seconds, Node 3 messaged value 10 (from left)
+
+-----In Node 3, generate a random number 10
+At 8.725246 seconds, Node 3 messaged value 10 (from right)
+At 8.725250 seconds, Node 3 messaged value 12 (from bottom)
+At 8.725251 seconds, Node 3 messaged value 10 (from left)
+
+-----In Node 3, generate a random number 12
+At 9.725738 seconds, Node 3 messaged value 10 (from right)
+At 9.725743 seconds, Node 3 messaged value 12 (from bottom)
+At 9.725744 seconds, Node 3 messaged value 11 (from left)
+
+-----In Node 3, generate a random number 12
+At 10.728364 seconds, Node 3 messaged value 10 (from right)
+At 10.728367 seconds, Node 3 messaged value 12 (from bottom)
+At 10.728368 seconds, Node 3 messaged value 10 (from left)
+
+-----In Node 3, generate a random number 11
+Event triggered!!!!!!!!!!!!!!
+At 11.732412 seconds, Node 3 messaged value 11 (from right)
+At 11.732416 seconds, Node 3 messaged value 11 (from bottom)
+At 11.732418 seconds, Node 3 messaged value 11 (from left)
+
+*************************************************************************
+**************************    I'm Node  0     **************************
+*************************************************************************

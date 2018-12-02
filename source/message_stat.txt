@@ -1,0 +1,21 @@
+On Node 14, there're 43 messages throughout the network that send by this node.
+On Node 8, there're 44 messages throughout the network that send by this node.
+On Node 12, there're 43 messages throughout the network that send by this node.
+On Node 16, there're 20 messages throughout the network that send by this node.
+On Node 10, there're 31 messages throughout the network that send by this node.
+On Node 18, there're 32 messages throughout the network that send by this node.
+On Node 20, there're 20 messages throughout the network that send by this node.
+On Node 9, there're 43 messages throughout the network that send by this node.
+On Node 5, there're 20 messages throughout the network that send by this node.
+On Node 13, there're 43 messages throughout the network that send by this node.
+On Node 7, there're 44 messages throughout the network that send by this node.
+On Node 11, there're 33 messages throughout the network that send by this node.
+On Node 19, there're 31 messages throughout the network that send by this node.
+On Node 6, there're 30 messages throughout the network that send by this node.
+On Node 17, there're 31 messages throughout the network that send by this node.
+On Node 15, there're 31 messages throughout the network that send by this node.
+On Node 1, there're 20 messages throughout the network that send by this node.
+On Node 2, there're 30 messages throughout the network that send by this node.
+On Node 4, there're 31 messages throughout the network that send by this node.
+On Node 3, there're 32 messages throughout the network that send by this node.
+Totally, there're 652 messages throughout the network.
