@@ -22,7 +22,7 @@ For a specific node, for example, Node 1 generates an random number and sends th
 
 The whole procedure would take 10 iterations (rounds). Between each round, there’s 1 second’s interval to make sure every processes can finish the task.
 
-On Model 1, communication uses MPI_Sendrecv() which send and receive messages from adjacent neighbor.
+On Model 1, communication uses `MPI_Sendrecv()` which send and receive messages from adjacent neighbor.
 
 
 ### Communication Model 2
@@ -37,17 +37,26 @@ In terms of Model 2, whenever there is an event firing in a node in the network,
 In figure 2, as an example, in a specific time interval round, Node 7(Rank 7) and Node 17(Rank 17) received at least 3 repeated random number from the neighbor nodes. When the event triggered, the two nodes non- blocking(asynchronous) send message packets to base station (Rank 0). In comparison, all other nodes that don’t receive at least 3 repeated random number won’t send messages to base station, which increases the efficiency of the wireless sensor network message passing system.
 
 On Model 2, the communication is taken play by the following MPI operations:
-- MPI_Isend() : non-blocking send message from nodes to base station
-- MPI_Irecv(): non-blocking receive message by base station
-- MPI_Wait(): wait for MPI request to complete
-- MPI_Test(): test whether a request has been received
-- MPI_Cancel(): cancels a communication request from node to base station
-- MPI_Request_free():frees a communication request object
+- `MPI_Isend()` : non-blocking send message from nodes to base station
+- `MPI_Irecv()`: non-blocking receive message by base station
+- `MPI_Wait()`: wait for MPI request to complete
+- `MPI_Test()`: test whether a request has been received
+- `MPI_Cancel()`: cancels a communication request from node to base station
+- `MPI_Request_free()`:frees a communication request object
 
 
 ## Compilation
 
+1. open terminal
 
+2. input commands
+    `make clean`
+    `make`
+    `make run`
+    
+3. see results
+    `cat result.txt`
+    `cat message_stat.txt`
 
 
 
