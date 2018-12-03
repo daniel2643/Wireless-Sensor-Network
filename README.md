@@ -50,14 +50,17 @@ On Model 2, the communication is taken play by the following MPI operations:
 1. open terminal
 
 2. input commands
-    `make clean`
-    `make`
-    `make run`
-    
-3. see results
-    `cat result.txt`
-    `cat message_stat.txt`
+```
+    make clean
+    make
+    make run
+```
 
+3. see results
+```
+    cat result.txt
+    cat message_stat.txt
+```
 
 
 
