@@ -12,7 +12,7 @@
 #define COL 5                       /* the number of columns in the network */
 #define ROW 4                       /* the number of rows in the network */
 #define K 10                        /* times of iteration(detection) */
-#define INTERVAL 1000               /* time delays in each iteration(detection) */
+#define INTERVAL 1500               /* time delays in each iteration(detection) */
 #define MAX 12                      /* max random number */
 #define MIN 10                      /* min random number */
 

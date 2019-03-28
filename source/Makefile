@@ -6,7 +6,7 @@ RUN = mpirun
 CFLAGS += -c
 
 wsn: main.o master.o slave.o
-	$(CC) -w -std=c++14 -o wsn main.o master.o slave.o
+	$(CC) -w -std=c11 -o wsn main.o master.o slave.o
 
 main.o: main.c
 	$(CC) $(CFLAGS) main.c
@@ -26,6 +26,7 @@ clean:
 	rm -f wsn
 	
 run:
+	export OMPI_MCA_btl_vader_backing_directory=/tmp
 	$(RUN) -np 21 --oversubscribe wsn
 
 one:
