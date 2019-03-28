@@ -20,8 +20,8 @@ int main(int argc, char **argv){
     
     
     FILE *fp, *mp;
-    fp = fopen("log.txt", "a");  /* filepath for log file */
-    mp = fopen("message_stat.txt", "a");  /* filepath for message statistics file */
+    fp = fopen("nodes.log", "a");  /* filepath for log file */
+    mp = fopen("message_stat.log", "a");  /* filepath for message statistics file */
     
     
     // 2. MPI initialization

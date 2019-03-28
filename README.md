@@ -58,8 +58,8 @@ On Model 2, the communication is taken play by the following MPI operations:
 
 3. see results
 ```
-    cat result.txt
-    cat message_stat.txt
+    cat base_station.txt
+    cat message_stat.log
 ```
 
 

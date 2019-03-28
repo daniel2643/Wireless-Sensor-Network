@@ -6,7 +6,7 @@ RUN = mpirun
 CFLAGS += -c
 
 wsn: main.o master.o slave.o
-	$(CC) -Wall -o wsn main.o master.o slave.o
+	$(CC) -w -std=c++14 -o wsn main.o master.o slave.o
 
 main.o: main.c
 	$(CC) $(CFLAGS) main.c
@@ -22,9 +22,7 @@ slave.o: slave.c
 clean:	
 	rm -f .DS*
 	rm -f *.o
-	rm -f message_stat.txt
-	rm -f result.txt
-	rm -f log.txt
+	rm -f *.log
 	rm -f wsn
 	
 run:

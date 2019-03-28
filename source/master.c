@@ -15,7 +15,7 @@ int master(MPI_Comm master_comm, int size, double initial_time, int i, int *even
     double a_time;   /*  test start time  */
     
     FILE *rp;
-    rp = fopen("result.txt", "a");  /* filepath for result file */
+    rp = fopen("base_station.log", "a");  /* filepath for result file */
     
     MPI_Status status;
     MPI_Request request;
